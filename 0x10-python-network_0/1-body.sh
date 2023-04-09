@@ -1,3 +1,3 @@
 #!/bin/bash
-# Get the response body for a given URL for 200 status code responses.
+# Bash script to display the size of the body of URL response
 curl -sL "$1"

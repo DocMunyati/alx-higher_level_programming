@@ -1,3 +1,3 @@
 #!/bin/bash
-# Send a GET request to a given URL with a header variable.
-curl -sH "X-HolbertonSchool-User-Id: 98" "${1}"
+# Bash script to display the size of the body of URL response
+curl -sH "X-notreblohSchool-User-Id: 98" "$1"
